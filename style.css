@@ -1,0 +1,44 @@
+.btn{
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ed3330;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+  margin: 2px 5px 5px 8px;
+}
+
+.btn:hover {
+  background: #434343;
+  letter-spacing: 1px;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.4s ease 0s;
+}
+
+#numberOfButtons {
+  border-color: black;
+  border-radius: 15px;
+  margin-right: 25px;
+  margin-left: 5px;
+  padding: 8px;
+}
+
+#userInput {
+  font-size: 20px;
+}
+
+h1 {
+  text-align:center;
+  font-family: 'Helvetica';
+  font-size: 36px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 44px;
+  margin: 0 0 12px;
+  text-align: center;
+}
