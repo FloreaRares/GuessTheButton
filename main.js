@@ -1,4 +1,4 @@
-var buttonsToGenerate; //No idea of how to eliminate this variable. If i'll declare it inside startGame how can i acces it in checkWin?
+var buttonsToGenerate; //No idea of how to eliminate this variable. If i'll declare it inside startGame how can i acces it in checkWin? I will try passing it as a second parameter and update the code.
 
 function startGame() {
 	var createdButtonIndex = 0;
